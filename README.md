@@ -2,9 +2,9 @@
 
 Currently, I'm studying **full-stack** web development and definitely, I'm enthusiastic about **Front-End**!! great things can be done using **Javascript** and **CSS**!
 
-:bowtie:-Used to work with **HTML-CSS**<br>
+:bowtie:-I'm used to work with **HTML-CSS**<br>
 :relaxed:-Growing in my knowledge of **JavaScript**<br>
-:heart_eyes:-Exited with **React**<br>
+:heart_eyes:-Excited with **React**<br>
 :smirk:-Curious about **Bootstrap**<br>
 :wink:-Investigating **MySQL** and Mongo **DB**<br>
 :smile:-Happy with tools like **GitHub** and **Figma**<br>
