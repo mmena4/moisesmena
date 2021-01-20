@@ -14,5 +14,3 @@ Currently, I'm studying **full-stack** web development and definitely, I'm enthu
 ## Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/moisesmena/moisesmena/master/moisesTools.png" alt="moisesSkills">
-
-<br />
