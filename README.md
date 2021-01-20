@@ -7,7 +7,7 @@ Currently, I'm studying **full-stack** web development and definitely, I'm enthu
 :heart_eyes:-Excited with **React**<br>
 :smirk:-Curious about **Bootstrap**<br>
 :wink:-Investigating **MySQL** and Mongo **DB**<br>
-:smile:-Happy with tools like **GitHub** and **Figma**<br>
+:smile:-Happy with tools like **GitHub**, **Visual Studio Code**, **Figma** and **Slack**<br>
 
 :musical_keyboard:-Fun fact: I have a techno music group, play music is the best thing to do in the free time!!
 <br>
